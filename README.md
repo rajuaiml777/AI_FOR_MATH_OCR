@@ -1,4 +1,4 @@
-# Mathematical formulae extractor
+# AI for math OCR
 The goal of this project is to create a learning based system that takes an image of a math formula and returns corresponding LaTeX code. 
 
 ![output](https://user-images.githubusercontent.com/86455215/137102333-cb128753-1607-4c17-b1e9-e0d0276286d9.gif)
